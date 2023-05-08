@@ -1,0 +1,15 @@
+{
+  "name": "moni-web-utils",
+  "version": "1.0.0",
+  "description": "moni utils for web develipment",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moni-io/moni-web-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moni-io/moni-web-utils/issues"
+  },
+  "homepage": "https://github.com/Moni-io/moni-web-utils#readme"
+}
