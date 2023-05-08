@@ -1,7 +1,8 @@
 {
   "name": "moni-web-utils",
-  "version": "1.0.0",
-  "description": "moni utils for web develipment",
+  "version": "1.0.1",
+  "main": "index.ts",
+  "description": "moni utils for web development",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Moni-io/moni-web-utils.git"
